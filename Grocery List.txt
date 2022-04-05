@@ -2,3 +2,5 @@ Bagels
 Oranges
 Ketchup
 A1
+Ninjas
+Samurai
